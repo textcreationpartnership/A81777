@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The second part of the Royal oake: or, The royall pilgrimage of His sacred Majestie King Charles II. Communicating divers of His Maiesties persecutions, as well amongst his professed enemies as his pretended friends, perjured servants, and traiterous subjects. Wherein the eminent mercies of Almighty, God are found to be sacredly evident over his anointed person, through the desolate walks which he hath made, since the year of grace 1645, to this present year of his most joyful return, 1660. being full fiftteen years. Together with his deliverances from some late plots, practised as well immediatly against his sacred person, as at further distances, when opportunity should be offered; being the inventions of wicked men, whose fears had brought them into despair, which blessings and deliverances are marked by figures in the margent.</title>
+            <title>Royal oake. Part 2.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81777</idno>
+            <idno type="STC">Wing D238A</idno>
+            <idno type="STC">ESTC R224868</idno>
+            <idno type="EEBO-CITATION">99897205</idno>
+            <idno type="PROQUEST">99897205</idno>
+            <idno type="VID">135714</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81777)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135714)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2479:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The second part of the Royal oake: or, The royall pilgrimage of His sacred Majestie King Charles II. Communicating divers of His Maiesties persecutions, as well amongst his professed enemies as his pretended friends, perjured servants, and traiterous subjects. Wherein the eminent mercies of Almighty, God are found to be sacredly evident over his anointed person, through the desolate walks which he hath made, since the year of grace 1645, to this present year of his most joyful return, 1660. being full fiftteen years. Together with his deliverances from some late plots, practised as well immediatly against his sacred person, as at further distances, when opportunity should be offered; being the inventions of wicked men, whose fears had brought them into despair, which blessings and deliverances are marked by figures in the margent.</title>
+                  <title>Royal oake. Part 2.</title>
+                  <author>Danvers, John, attributed name.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for G. Horton, living near the three Crowns in Barbican,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Wing attributes to John Danvers, who wrote "The royal oake, or, An historical description of the royal progress, wonderful travels, miraculous, escapes, and strange accidents of his sacred Majesty Charles the II (Wing D237). However, the style and tone of the work here being catalogued is very different from Danvers' work. Another candidate for part 1 is "The royal pilgrimage, or The progresse and travels of King Charles the Second, through the most and greatest courts of Europe" (Wing R2142), but again tone and style seem to be wrong.</note>
+                  <note>Also published later in the same year in Edinburgh with title: The royal pilgrimage of His sacred Majesty King Charles the Second (Wing R2142A).</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:135714:1"/>
+            <p>The Second Part of the ROYAL OAKE: OR, The Royall Pilgrimage Of His Sacred <hi>Majestie</hi> KING <hi>CHARLES II.</hi> Communicating Divers of His Maieſties perſecutions, as well amongſt His profeſſed Enemies as his pretended Friends, Perjured Servants, and Traiterous Subjects. Wherein the eminent Mercies of Almighty, God are found to be ſacredly evident over his Anointed Perſon, through the deſolate walks which He hath made, ſince the year of Grace 1645, to this preſent year of His moſt Joyful Return, 1660. being full Fiftteen years. Together with His Deliverances from ſome late Plots, practiſed as well imme<g ref="char:EOLhyphen"/>diatly againſt his Sacred Perſon, as at further diſtances, when opportunity ſhould be offered; Being the Inventions of wicked men, whoſe Fears had brought them into Deſpair, which Bleſſings and Deliverances are marked by Figures in the margent.</p>
+            <q>
+               <l>Superstitioſus veretur Deus ut Hoſtem,</l>
+               <l>Religioſus ut Parentem.</l>
+               <bibl>
+                  <hi>St. Auguſt.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>G. Horton,</hi> living near the three Crowns in <hi>Barbican,</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:135714:2"/>
+            <pb n="1" facs="tcp:135714:2"/>
+            <head>The Royal Pilgrimage.</head>
+            <p>
+               <hi>HErodotus</hi> the Hiſtorian hath left us a remarkable paſſage of one <hi>Sethon</hi> on <hi>Aegyptian</hi> King, who being forſaken through the baſeneſſe and puſillanimity of his own Souldiers addreſſed his Devotions to the gods for deliverance, who in anſwer to his Petiti<g ref="char:EOLhyphen"/>on ſent an Army of Mice into his enemy <hi>Senacribs</hi> Hoſt, which did eat the Quivers of the Souldiers, and the Leather which was uſed about their Shields and Armor; upon which Omen <hi>Senacribs</hi> Army fled, ſo giving King <hi>Sethon</hi> and his people a wonderful deliverance, which cau<g ref="char:EOLhyphen"/>ſed his Subjects to erect an Image of Stone to the memory of <hi>Sethon,</hi> with a Mouſe in his hand in the Temple of <hi>Uulcan,</hi> with this Inſcription, <hi>He that looketh on me let him be Religious.</hi> The Story is Heathen, there<g ref="char:EOLhyphen"/>fore profane, yet had it been fabulous it had borne a morall pertinent to our Sovereigns ſufferings.</p>
+            <p>We muſt leave the application to the ingenious, and fall upon the ſad reherſal of ſome remarkable perſecutions, through which his Sacred Majeſty hath paſſed during the ſpace of 12 years, which number he hath compleated, ſince the bleſſed Soul of his glorified Father was tranſlated from this vale of miſery, to the hill of eternall happineſs.</p>
+            <p>After the threnitique ſorrows, <milestone type="tcpmilestone" unit="unspecified" n="1"/> and unmeaſurable tears which he had poured forth upon the ever to be lamented Remains of his Royal and moſt glorious Father, in his own private lamentations, He was not for a long time without daily motives to renew griefs, which found a Chan<g ref="char:EOLhyphen"/>nel in every viſit to invade his oppreſſed Spirit; Where was the Com<g ref="char:EOLhyphen"/>forter, or who came within his drowned ſight and did not renew or en<g ref="char:EOLhyphen"/>large the ſtreams of his ſorrow? Yea, the very fountains of Natures ſtrength in his Majeſty, were ſo ſtormed with afflictions, as in youth he became gray-headed, which is the unflattering evidence of a wounded Spirit, which none can bear without the ſanctified ſupportation of a wonderworking God.</p>
+            <p>Inſtead of relief or conſolation in this ſtorm of ſorrows, <milestone type="tcpmilestone" unit="unspecified" n="2,"/> wherein His Majeſty was buryed up, only with the Arms of Angels, he had an oppor<g ref="char:EOLhyphen"/>tunity to taſt the gratitude of that people where he then lived, whom his Predeceſſors had redeemed and protected from ſuch puniſhments as Traitors incur, but in their ballance His weighty cauſe was found Light,
+<pb n="2" facs="tcp:135714:3"/>and <hi>Holland</hi> muſt now no longer be his Sanctuary, but the reception of his profeſſed Enemies, a Den of Theeves and Murtherers like the In<g ref="char:EOLhyphen"/>habitants, and the Patient King even in the greenneſs of His Greifs was forced to carry his bleeding heart into another Nation, whoſe King and Princes might probably endeavour to reverge his wrongs becauſe they held their Veyns dignified by clayming an intereſt in His highborn blood; <milestone type="tcpmilestone" unit="unspecified" n="3"/> But there alſo He was likewiſe refreſhed in His Mournings: for he found himſelf cenſured and deſpiſed by the Magnates the proudeſt Princes on the earth, whilſt their moſt miſerable Plebeyans and Peſants adored his Majeſty and ſtiled him, not unjuſtly the Deliverer, the Re<g ref="char:EOLhyphen"/>deemer, the Saviour of their Country.</p>
+            <p>Wearyed with the unnaturall, and unthankful Retorts which his Ma<g ref="char:EOLhyphen"/>jeſttique merits received from the Kickſhaw Court of <hi>France,</hi> 
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> he re<g ref="char:EOLhyphen"/>turned amongſt the Dutch Bores, who by this time had handfaſted a Treacherous amity with his Majeſties Rebellious and Murtherous Subjects, ſo as there was no more ſafety for him with them, then if he or his Arceſtors had been their mortall enemyes, without whoſe coun<g ref="char:EOLhyphen"/>tenance and aſſiſtance, they, even thoſe ungratefull States, had long before been Vagabonds.</p>
+            <p>The conſideration of theſe things as they could be no leſs then ſad and greivous unto his Majeſty: ſo the formidable ſequels were to be timely prevented, for the Waſps and Hornets of his Rebells ſwarmed in every corner of the Netherlands, ſo as their ſeditious infection be<g ref="char:EOLhyphen"/>came to be Epidemique; <milestone type="tcpmilestone" unit="unspecified" n="5"/> Therefore his Majeſty finding himſelf under another variation of King <hi>Davids</hi> ſtreights, he choſe rather to hazzard his Royal perſon upon the hollow hearts of his Scottiſh Subjects then longer to truſt upon the Dutch falſe Friends; who loved and feared him alike for his Impotency or Power.</p>
+            <p>For this purpoſe his undaunted Reſolution betook to <hi>Scotland,</hi> in which Voyage the Tempeſtuous Sea entertained him with juſt ſuch Civi<g ref="char:EOLhyphen"/>lities, <milestone type="tcpmilestone" unit="unspecified" n="6"/> as his inconſtant Friends had done in their Territories, neverthe<g ref="char:EOLhyphen"/>leſs it pleaſed God to bring him ſafe into <hi>Scotland,</hi> where his firſt work was to uſe his <hi>Solomons</hi> wiſdome to diſtinguiſh betwixt the true and falſe hearts of thoſe his Subjects, whoſe infidelity he had too late<g ref="char:EOLhyphen"/>ly experimented, and had now no more aſſurance of their Loyalty then their bare word, yet finding ſome regret in the multitude, he began to have a better opinion of the Nobility, then many of them deſerved, for upon narrower enquiery he was ſoon ſatisfied that the Core and Dreggs of Rebellion remained ſtill in the more powerfull of them, but his Majeſty was reſerved, and theſe Lords held it policy to comply with
+<pb n="3" facs="tcp:135714:3"/>him in popular appearance, though otherwiſe they entertained and wel<g ref="char:EOLhyphen"/>comed him with a double heart.</p>
+            <p>His Majeſty having taken that his Kingdome and Crown upon him with ſuch Ceremony as that Nation could afford, finding that the Ty<g ref="char:EOLhyphen"/>rannous Uſurper <hi>Cromwell</hi> did daily get ground upon him, took Coun<g ref="char:EOLhyphen"/>cell with his Nobles for a march into <hi>England,</hi> which accordingly he un<g ref="char:EOLhyphen"/>dertook with a numerous Army, and came in ſafety to the City of <hi>Wor<g ref="char:EOLhyphen"/>ceſter,</hi> where expecting an encreaſe of Loyall hearts, he was againe Trea<g ref="char:EOLhyphen"/>cherouſly made acceſſary to his own ruine; <milestone type="tcpmilestone" unit="unspecified" n="7"/> for his Generall <hi>Leſly</hi> (up<g ref="char:EOLhyphen"/>on which name the Curſe of God is in all likelihood intayled) having been according to his Country faction, beforehand corrupted by <hi>Crom<g ref="char:EOLhyphen"/>well</hi> and his Rumpers, this ſacred King was againe betrayed by that damned <hi>Leſly,</hi> and through his Majeſties own Gallantry, he was well nigh ſurprized by his Engliſh Rebells, having a Horſe or two ſlaine un<g ref="char:EOLhyphen"/>der his Royal perſonage.</p>
+            <p>There then remained no hopes but withall ſpeed to make an ingeni<g ref="char:EOLhyphen"/>ous eſcape, diſguiſes were now his beſt Armour, and God who was ever with him in his greateſt need, becauſe he had a favour towards him, was pleaſed to proſper the deſignes of the few true-hearted Lords which were about his Majeſty, ſo as after many wandrings for the ſpace of about two months, he eſcaped into France, where he needed no infor<g ref="char:EOLhyphen"/>mation of that Courts could compaſſion towards him; <milestone type="tcpmilestone" unit="unspecified" n="8"/> But the Wiſ<g ref="char:EOLhyphen"/>dome and Providence of God were always with his Majeſty, and he re<g ref="char:EOLhyphen"/>ceived the Court holy water as truly Sanctifyed Conſolations, and ſo endeavoured really to requite them; For the differences fallen be<g ref="char:EOLhyphen"/>tween the Prince of <hi>Condy</hi> and the <hi>Cardinall Mazarine,</hi> had begotten unattoneable ſidings and factions even in the great City of <hi>Paris,</hi> where the Prince became, ſo advanced with his Country-men as the Cardinal was debaſed in their eſteem, and the <hi>Spaniſh</hi> which were read, to en<g ref="char:EOLhyphen"/>ter the City were diverted by the great prudence of our Soveraign: So as Statues were erected in Honour of his Majeſty whom thereon they entitled the Deliverer the Redeemer, and Saviour of <hi>France.</hi>
+            </p>
+            <p>Nevertheleſs they ſoon exſpunged theſe Obligations, and their own Conſanguinityes were as quite forgotten, as if they had not been le<g ref="char:EOLhyphen"/>gitimate, they did not onely hearken to the Enchantments of his Ser<g ref="char:EOLhyphen"/>pentlike Enemyes, but they preſently ſtrook up an Amity and League with the Uſurper of his Inheritance, the Bloodſucker of his Glorious Father, the Trapparner of his Loyal Subjects, and as ſoon as the In<g ref="char:EOLhyphen"/>cendiacy, the Touch and Go of all Devaſtations had ſtruck fire upon the <hi>French</hi> Tinder, which immediately embraced the Sparkle, the
+<pb n="4" facs="tcp:135714:4"/>flames of <hi>Chriſtendom,</hi> began again to break forth, &amp; <hi>Oliver</hi> the Demo<g ref="char:EOLhyphen"/>niack towards his King, and the Elect over his Countrey, whom none but the Devil and he only (by ſympathetical reſemblance) could endure, was now the only favourite of <hi>France,</hi> and its Guardian <hi>Mazarixe.</hi>
+            </p>
+            <p>Therefore his Sacred Majeſty the <hi>Job</hi> like ſervant of God muſt now undergo new perſecutions, for beholding with amazement his Cozen King ſo <hi>French</hi> like, mutable as neither conſanguinity, Faith, nor poli<g ref="char:EOLhyphen"/>tique prudence would keep firmer that Prince who calls himſelf the moſt Chriſtian King, his Majeſty left himſelf to his new contract with a Reed of <hi>Egypt,</hi> 
+               <milestone type="tcpmilestone" unit="unspecified" n="10"/> that perjured Traytor, that peſt of his time, the accurſed parent, and maſter of a Vagabond generation, and Fugitive Vaſſalage <hi>Oliver Cromwell,</hi> who within the time of very few proceeding years, no man would truſt for fix penniworth of victuals, yet this Varlet raiſed a new ſtorm, and his patient Chriſt like Majeſty muſt flee to act another Scene of <hi>French</hi> fortunes Inconſtancie, even where himſelf could find a Reception.</p>
+            <p>From <hi>France,</hi> perfideous <hi>France,</hi> This Son of heaven (not having whereon to reſt his head; to whom all ſorrows were ſanctified) removes into the more conſtant Climate of <hi>Germany,</hi> where the Religious Em<g ref="char:EOLhyphen"/>perior entertained our Soveraign Lord with an upright heart, and a Sacred ſence of his unjuſt perſecutions, in imitation of whoſe piety the in<g ref="char:EOLhyphen"/>feriour Princes of the Empire grew even into emulation which of them ſhould firſt enjoy his Majeſties Royal preſence, <milestone type="tcpmilestone" unit="unspecified" n="11"/> but a ſnake ſtill ſlept in his innocent boſome for one <hi>Manning</hi> a miſcrerant ſervant, having received a ſop from Satan <hi>Oliver,</hi> ſo inſinuated into his Dove-like Majeſty as he got reſidency about the Kings Bedchamber, and an unexſpected intereſt in his Privacies, and herein the providence of God, which had ever cloſely attended his Sacred Protection began to cooperate with his Wiſdom, who like a true Son of <hi>Solomon</hi> miraculouſly diſcovered this Serpent of ſubtility, and Childe of perdition, and in ſhort his Laws, Majeſty who was but a ſo journer and no Soveraign of that Countries found help with the Noble Duke of <hi>Newburgh</hi> to do him to death, the ſtory is familiarly known.</p>
+            <p>His Majeſty having ſpent ſometime amongſt thoſe Cordial Chriſtian Princes, and received magnificent expreſſions from his Emperial Maje<g ref="char:EOLhyphen"/>ſty, he was invited by another branch of that moſt Chriſtian <hi>Auſtrian</hi> Family into <hi>Flanders,</hi> where the Majeſty of <hi>Spain</hi> added another golden linke to that chain of Piety which all his Chriſtian Anceſtors had worn, for ſome years his Majeſty ſo journed in that Territory, <milestone type="tcpmilestone" unit="unspecified" n="12"/> but not without thoſe Serpents which ſpawned and crawled about his very heart-blood,
+<pb n="5" facs="tcp:135714:4"/>ſo as whatſoever his Majeſty did, or undertook to do, was conveyed by the unclean Fowls of the Air to <hi>Oliver</hi> in whom they built their Neſts; But the Devils themſelves are limited and <hi>Oliver</hi> departed to his own place.</p>
+            <p>No ſooner had his Son <hi>Richard</hi> ſwept the Houſe, but the ſmaller De<g ref="char:EOLhyphen"/>vils of <hi>Oliver</hi> returned, and brought in 7 more wiſe then themſelves, which daily ſo multiplyed, as by their witchcrafts, <hi>England,</hi> which was ſuddainly grown into ſuch ſerenity, as a cloud was ſcarce to be ſeen as big as a mans hand, when in an inſtant the three Kingdoms were covered over with hideous darkneſs, and new ſtorms ariſe; The Devils playd their own parts, and quarrelled within themſelves for Supremacy; In which combuſtion the Loyalty of Sir <hi>George Booth</hi> gave light to others, and they alſo became illuſtrious, and now the remaining Imps at home, <hi>Thurloe</hi> Satan-<hi>Olivers</hi> Clark together with his more Diabolique Maſter, watered and new planted che Gatden for the Snakes, which as yet were hidden in his Majeſties Pallace where ever he removed; For the King hearing that his Loyal Subjects about <hi>Cheſhire</hi> and <hi>Wales,</hi> began to Liſt, and embody for his Reſtauration, like a true-Chriſtian Prince, thought himſelf bound to aſſiſt,, at leaſt with his Royal preſence, thoſe valiant and loyal undertakers of His Cauſe. And therefore employs one whom he had at all turns, both in giving and forgiving, obliged to his moſt truſty ſervice, but the Angels themſelves fell, and the Wall of his Ser<g ref="char:EOLhyphen"/>vants fidelity was built of mud, and tempered with corruption; for his Majeſties enemies (made ſo by the unjuſt poſſeſſion of his own proper Revenues) ſoon found the pulſe of this his-<hi>Judus</hi> like ſervants and they gave him mony, who wanted not that but a ſincere conſcience, and being by his Majeſty entruſted to guide him to a ſafe Landing, whereby his Majeſty might with his Royal preſence encourage and ſtrengthen the willing hands of his Loyal Subjects, <milestone type="tcpmilestone" unit="unspecified" n="13"/> was by his ſaid ſubtile Agent di<g ref="char:EOLhyphen"/>rected into a pit of deſtruction, in ſo much as his Majeſty did without ſuſpition of any danger ut three times to Sea, intending to Land in his County of <hi>Kent,</hi> where this Villain had purpoſely directed him to meet his certain ruine whom God ever Guard.</p>
+            <p>But the all provident eye and hand of God defended his Sacred Majeſty, and now the God of all goodneſs who has tryed his Majeſties Faith and conſtancy to Religion and moral Vertue, as once be did <hi>Abrahams,</hi> finding a perfect heaat o dwell in the breaſt of that Peerleſs Subject General <hi>George Monk</hi> ſo ſanctified his ſword, yea his word as without blow or bloodſhed he made the ſteely affections of the South incline and fly to that magnetique Attractive of the North, and ſo ſoon
+<pb n="6" facs="tcp:135714:5"/>and ſtrongly unanimous their bodies united, as it was no more in the power of man nor of the Devil to ſeperate the conjunction.</p>
+            <p>Nevertheleſs, as contagious diſeaſes once ſubdued, do yet leave pec<g ref="char:EOLhyphen"/>cant humours which wander and break out, yea and ſometimes infect alſo, ſo it ſtands after this learned cure without cutting, for divers ma<g ref="char:EOLhyphen"/>litious and Phanatique ſpirits floating amongſt the Vulgar like the ſpernie and ſpawne of corrupt and venemous creatures upon the waters, have caſt of frothy, and filthy, and filthy Language both againſt this clarified General, and his Sacred Majeſty riches in ſuch a ſervant then in all the earths wealth, but they are happily gotten yet no higher, then words; which though they be but wind are dangerous and puniſhable, yet ſome deſperado's have gone higher; For a Phanatick having cloth<g ref="char:EOLhyphen"/>ed and mounted himſelf as rich and ſtately as any of the Noble Attend<g ref="char:EOLhyphen"/>ants which are joyfully gone to conduct up his Sacred Majeſty to his Loyal people whoſe Bowels yern for the fruition of him, this reſolute Villain was diſcovered, ſurprized examined and ſearched, about whom were found five Piſtolls each charged and laiden with a brace of Bullets the intention of the Rogue having been to aſſaſſinate his bleſſed Majeſty, or his faith tryed General, or both, but the furious and mali<g ref="char:EOLhyphen"/>tious mad Dog is chained up in Newgate, and ſhall ſhortly be uſed up at Tyburn where a dead dog bytes not.</p>
+            <p> 
+               <milestone type="tcpmilestone" unit="unspecified" n="16"/> There is yet a great deliverance unrelated, for God having touched the heart of our Mr. <hi>Moreland</hi> formerly an Agent for the uſurping Tyrant, and one whom his cloſe ſervices held in great eſteem with <hi>Oli<g ref="char:EOLhyphen"/>ver,</hi> having alſo been ſometimes truſted with the Liſt or Chain of <hi>Oli<g ref="char:EOLhyphen"/>vers</hi> Vermine about the King, did lately repair to his Majeſty, before whom, after he had unfainedly demonſtrated his humiliation, he drew forth the names of ſuch Vipers and Serpents, as had in theſe twelve years lived by ſucking at his Royal heart blood, of whom it is ſaid their were above 40 to whom his own and <hi>Thurloe</hi>'s hand had from time to time paid Penſions, who are now like to get the ſurer wages and rewards for their <hi>Judas</hi> like ſervices.</p>
+            <p> 
+               <milestone type="tcpmilestone" unit="unspecified" n="17"/> We have it alſo for certain, that ſome Seamen had conbined to blow up the Royal Ship in which his Sacred Majeſty was to be tranſ<g ref="char:EOLhyphen"/>ported, but the conſpiracy being timely diſcovered, the wretched Vil<g ref="char:EOLhyphen"/>lains are ſaid to be ſecured, and ſpeedily to be hanged and quartered. So periſh all the enemies of my Lord the King, whilſt upon himſelf his Crown flouriſh <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:135714:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
